@@ -1,0 +1,4 @@
+.langContents {
+    display: grid;
+    place-content: center;
+}

@@ -1,0 +1,12 @@
+.App {
+  background-color: #0D1117;
+  height: 98vh;
+  width: 100vw;
+  /* aligning sidebar to vertical center */
+  display: flex;
+  align-items: center;
+  padding: 10px 50px;
+  color: #b1b1b1;
+  font-family: 'Ubuntu', 'Roboto', sans-serif;
+  font-size: 15px;
+}

@@ -1,0 +1,9 @@
+.iconContainer {
+    width: 75px;
+    height: 75px;
+    border-radius: 25px;
+    background-color: #010409;
+    display: grid;
+    place-content: center;
+    cursor: pointer;
+}

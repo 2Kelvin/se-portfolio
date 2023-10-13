@@ -1,0 +1,89 @@
+.homeAbout {
+    background-color: #161B22;
+    border: 1px solid rgba(128, 128, 128, 0.2);
+    border-radius: 25px;
+    width: calc(100vw - 500px);
+    margin-left: 150px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 60px 40px;
+
+}
+
+.bigName {
+    flex: 1;
+}
+
+.bigName p {
+    font-size: 1.1em;
+    margin-top: 0;
+}
+
+.bigName h1 {
+    margin: 0;
+    font-size: 6.4em;
+    color: #D6E3EE;
+}
+
+.bigName h4 {
+    margin-top: 0;
+    color: #1FD662;
+    font-weight: 500;
+    font-family: 'Roboto Mono';
+}
+
+.devTags {
+    color: rgba(0, 255, 255, 0.2);
+    /* color: #D8549D; */
+}
+
+.openTag {
+    margin-right: 7px;
+    font-weight: lighter;
+}
+
+.closeTag {
+    margin-left: 7px;
+    font-weight: lighter;
+}
+
+.bigName h2 {
+    font-size: 4.8em;
+}
+
+.myAbouts {
+    flex: 1;
+    padding-left: 40px;
+}
+
+.schoolTitle,
+.skillsTitle,
+.hobbiesTitle {
+    font-size: 1.1rem;
+    color: aqua;
+    font-weight: bold;
+}
+
+.date {
+    color: rgba(214, 227, 238, 0.4);
+    font-weight: lighter;
+    margin-left: 10px;
+}
+
+.eachSchool h4,
+.eachSkill h4 {
+    color: #D6E3EE;
+    margin: 0;
+    margin-right: 20px;
+}
+
+.eachSchool {
+    display: flex;
+    align-items: center;
+}
+
+.hobbiesList {
+    margin-left: 40px;
+}
+
+/* add FaDotCircle to skills bullets */
