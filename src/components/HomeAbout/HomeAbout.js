@@ -59,8 +59,8 @@ export default function HomeAbout() {
                         </li>
 
                         <li className='eachSkill'>
-                            <h4>Extras</h4>
-                            <p>Linux, Bash, Shell & DevOps</p>
+                            <h4>Other</h4>
+                            <p>Linux, Bash, Shell, Figma & DevOps</p>
                         </li>
                     </ul>
                 </div>
@@ -69,7 +69,7 @@ export default function HomeAbout() {
                 <div className='hobbies'>
                     <p className='hobbiesTitle'><span className='devTags openTag'>&lt;</span>Hobbies<span className='devTags closeTag'>/&gt;</span></p>
                     <p className='hobbiesList'>
-                        Painting, Basketball, cycling, Building PCs and distro hopping in Linux
+                        Painting, basketball, cycling, building PCs and distro hopping in Linux
                     </p>
                 </div>
             </div>

@@ -6,7 +6,7 @@ function Card(appType, title, content) {
         <div className="card">
             <div className="flexCardHeading">
                 <h4 className='appType'>{appType}</h4>
-                <img className="githubIcon" src={FaGithubAlt} alt="github icon link" />
+                <img className="githubIcon" src={FaGithubAlt} alt="github link" />
             </div>
             <h2>{title}</h2>
             <p>{content}</p>

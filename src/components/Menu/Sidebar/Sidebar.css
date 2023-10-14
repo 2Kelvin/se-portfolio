@@ -9,4 +9,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: space-evenly;
+    position: fixed;
+    top: 32%;
+    left: 50px;
 }

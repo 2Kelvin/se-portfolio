@@ -1,11 +1,13 @@
 .App {
   background-color: #0D1117;
-  height: 98vh;
-  width: 100vw;
+  /* height: 84vh; */
+  /* width: 100vw; */
   /* aligning sidebar to vertical center */
-  display: flex;
+  /* display: flex;
+  flex-direction: column;
   align-items: center;
-  padding: 10px 50px;
+  padding: 10px 50px; */
+  padding-top: 160px;
   color: #b1b1b1;
   font-family: 'Ubuntu', 'Roboto', sans-serif;
   font-size: 15px;
